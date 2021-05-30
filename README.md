@@ -1,7 +1,3 @@
-# ImFixMatch: A Simple and Effective Scheme for Imbalanced Semi-Supervised Learning
-
-This repository contains code for the paper
-**"ImFixMatch: A Simple and Effective Scheme for Imbalanced Semi-Supervised Learning"** 
 
 ## Dependencies
 
