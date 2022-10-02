@@ -17,7 +17,7 @@ Adsh is a semi-supervised learning method that can select pseudo-labels based on
 python train.py --dataset cifar10 --num_max 1500 --label_ratio 2 --imb_ratio_l 100 --imb_ratio_u 100 --gpu-id 0
 ```
 
-## Evaluate Pre-trainined Model
+## Evaluate Pre-trained Model
 ```
 python evaluate_model.py --dataset cifar10 --resume pretrained_model/IFM_1500_2_100_100.pth.tar
 ```
