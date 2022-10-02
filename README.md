@@ -1,4 +1,6 @@
-This repository contains PyTorch implementation for Adsh [Class-Imbalanced with Adaptive Thresholding](https://proceedings.mlr.press/v162/guo22e.html) published in ICML 2022.
+## Class-Imbalanced Semi-Supervised Learning with Adaptive Thresholding
+
+This repository contains PyTorch implementation for Adsh [Class-Imbalanced Semi-Supervised Learning with Adaptive Thresholding](https://proceedings.mlr.press/v162/guo22e.html) published in ICML 2022.
 
 Adsh is a semi-supervised learning method that can select pseudo-labels based on an adaptive confidence threshold.
 
